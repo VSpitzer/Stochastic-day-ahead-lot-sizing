@@ -1,5 +1,5 @@
 # Stochastic-day-ahead-lot-sizing
-Open-access data for reproductibility of the numerical experiments in the article "Day-ahead lot-sizing under uncertainty: An application to green hydrogen production" 
+Open-access data for reproducibility of the numerical experiments in the article "Day-ahead lot-sizing under uncertainty: An application to green hydrogen production" 
 
 In Data:
   - The "grid_price" file indicates the hourly electricity prices over the year 2016 in France.
