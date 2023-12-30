@@ -13,5 +13,5 @@ In src:
 
 Licence:
   -  The notebooks, and other documents are released under a CC BY-NC-SA 4.0 license.
-  -  The forecasted and actual wind power datas are derived from an original work under a CC BY-NC-SA 4.0 licence by C. Lalanne: https://github.com/CA683-Group99/Wind-Energy-Prediction.
+  -  The forecasted and actual wind power datas are derived from an original work by C. Lalanne: https://github.com/CA683-Group99/Wind-Energy-Prediction.
     
