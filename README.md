@@ -5,7 +5,7 @@ In Data:
   - The "grid_price" file indicates the hourly electricity prices over the year 2016 in France.
   - The "Wind_Power" files represent the historical and simulation data of hourly forecasted and actual wind power.
   - The "quantiles" file represents the minimum guaranteed hourly wind power corresponding to the simulation dataset.
-  - The "Scenario_sets" files represent the sampled scenarios used for the simulation presented in the mentionned article.
+  - The "Scenario_sets" repository represent the sampled scenarios used for the simulation presented in the mentionned article.
 
 In src:
   - A notebook is available to reproduce the scenario generation method of the mentionned article, by training and evaluating the method on the wind power data available in the "Data" repository.
