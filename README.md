@@ -7,9 +7,7 @@ In Data:
   - The "quantiles" file represents the minimum guaranteed hourly wind power corresponding to the simulation dataset.
   - The "Scenario_sets" repository represent the sampled scenarios used for the simulation presented in the mentionned article.
 
-In src:
-  - A notebook is available to reproduce the scenario generation method of the mentionned article, by training and evaluating the varational auto-encoder on the wind power data available in the "Data" repository.
-  - "Scenario generation VAE" corresponds to the neural network used to generate the scenarios of the simulation presented in the article.
+The model of the neural network used for scenario generation is accessible on demand.
 
 Licence:
   -  The notebooks, and other documents are released under a CC BY-NC-SA 4.0 license.
