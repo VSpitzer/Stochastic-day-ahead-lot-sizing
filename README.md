@@ -8,7 +8,7 @@ In Data:
   - The "Scenario_sets" repository represent the sampled scenarios used for the simulation presented in the mentionned article.
 
 In src:
-  - A notebook is available to reproduce the scenario generation method of the mentionned article, by training and evaluating the method on the wind power data available in the "Data" repository.
+  - A notebook is available to reproduce the scenario generation method of the mentionned article, by training and evaluating the varational auto-encoder on the wind power data available in the "Data" repository.
   - "Scenario generation VAE" corresponds to the neural network used to generate the scenarios of the simulation presented in the article.
 
 Licence:
