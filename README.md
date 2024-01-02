@@ -10,6 +10,6 @@ In Data:
 The model of the neural network used for scenario generation is accessible on demand.
 
 Licence:
-  -  The notebooks, and other documents are released under a CC BY-NC-SA 4.0 license.
+  -  All documents are released under a CC BY-NC-SA 4.0 license.
   -  The forecasted and actual wind power datas are derived from an original work by C. Lalanne et al.: https://github.com/CA683-Group99/Wind-Energy-Prediction.
     
