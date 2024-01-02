@@ -7,7 +7,7 @@ In Data:
   - The "quantiles" file represents the minimum guaranteed hourly wind power corresponding to the simulation dataset.
   - The "Scenario_sets" repository represent the sampled scenarios used for the simulation presented in the mentionned article.
 
-The model of the neural network used for scenario generation is accessible on demand.
+The model of the neural network used for scenario generation is accessible on demand: victor.spitzer@universite-paris-saclay.fr
 
 Licence:
   -  All documents are released under a CC BY-NC-SA 4.0 license.
