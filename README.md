@@ -3,7 +3,7 @@ Open-access data for reproducibility of the numerical experiments in the article
 
 In Data:
   - The "grid_price" file indicates the hourly electricity prices over the year 2016 in France.
-  - The "Wind_Power" files represent the historical and simulation data of hourly forecasted and actual wind power.
+  - The "Wind_Power" files represent the historical and test data of hourly forecasted and actual wind power.
   - The "quantiles" file represents the minimum guaranteed hourly wind power corresponding to the simulation dataset.
   - The "Scenario_sets" repository represent the sampled scenarios used for the simulation presented in the mentionned article.
 
